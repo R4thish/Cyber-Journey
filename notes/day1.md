@@ -13,7 +13,7 @@ The core concept of offensive security is about :
       3.Finding loopholes in the application(Vulnerabilites)
       4.Writing the report
 
-```
+
 ## what is defensive security?
 Defensive security is opposite of the offensive security there we break into the system here we try to protect from attackers to break our system 
       1.Prevent the intrusion from occuring
@@ -25,4 +25,4 @@ Task related to defensive security :
       4.Setting up preventative security device such as firewall,IDS &IPS
       5.Setting up logging and mointoring devices
 
-
+```
