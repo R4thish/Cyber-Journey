@@ -1,28 +1,34 @@
 # Day 1 - Basic of Cybersecurity
 
+---
 ## What is Cybersecuirty?
-Cybersecurity is ensure the Confidentiality,Integrity and Availablity.practice of protecting system,data,networks and assets to avoid unautorized access,avoid the data tampering and data stealing from attack.
-```
+Cybersecurity is ensure the Confidentiality,Integrity and Availablity.
+It focuses on protecting system,data,networks and assets to avoid unautorized access,avoid the data tampering and data stealing from attack.
 
-# TRY HACK ME - Learning Path
+---
 
+# Try hack me - Beginner Learning Path
+
+---
 ## What is offensive security?
 The core concept of offensive security is about :
-      1.Breaks into the system with permission
-      2.Exploiting the software bugs
-      3.Finding loopholes in the application(Vulnerabilites)
-      4.Writing the report
+1. Breaks into the system with permission
+2. Exploiting the software bugs
+3. Finding loopholes in the application(Vulnerabilites)
+4. Writing the report
 
+---
 
-## what is defensive security?
-Defensive security is opposite of the offensive security there we break into the system here we try to protect from attackers to break our system 
-      1.Prevent the intrusion from occuring
-      2.Detecting intrusion when the occur and responding properly
+## What is defensive security?
+Defensive security is opposite of the offensive security.
+There we break into the system here we try to protect from attackers to break our system.
+1. Prevent the intrusion from occuring
+2. Detecting intrusion when the occur and responding properly
 Task related to defensive security :
-      1.Cybersecurity awarness
-      2.Documenting and managing assets
-      3.Updating and patching system
-      4.Setting up preventative security device such as firewall,IDS &IPS
-      5.Setting up logging and mointoring devices
+1. Cybersecurity awarness
+2. Documenting and managing assets
+3. Updating and patching system
+4. Setting up preventative security device such as firewall,IDS &IPS
+5. Setting up logging and mointoring devices
 
-```
+---
